@@ -95,7 +95,9 @@ html {
 	display: block;
 	line-height: 40px;
 }
-
+.services-img {
+	width: 100%;
+}
 .mobile-menu-item:hover {
 	color: none;
 	background: var(--orange-color);
